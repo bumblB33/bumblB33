@@ -1,7 +1,7 @@
 <h1 align="center">Britt Walker</h1>
 
 <p align="center">
-  Infosec graduate working in cross-functional ML/data science research. <br>
+  Infosec Graduate & Current Engineer, cross-functional AI/ML research. <br>
 </p>
 
 <p align="center">
