@@ -15,7 +15,7 @@
 ### Who Are You?
 
 I lead R&D engineering operations focused on AI agents and data-inference
-services. My background is in cybersecurity, OSINT, and reporting analytics. I'm interested in feature engineering, file encoding (check out [Gary Kessler's Magic Bytes List!](https://www.garykessler.net/library/file_sigs_GCK_latest.html)), optimization algorithms, and AI interpretability.(I also have an art degree - let me know if you need some design notes!)
+services. My background is in cybersecurity, OSINT, and reporting analytics. I'm interested in feature engineering, file encoding (check out [Gary Kessler's Magic Bytes List!](https://www.garykessler.net/library/file_sigs_GCK_latest.html)), optimization algorithms, and AI interpretability. (I also have an art degree - let me know if you need some design notes!)
 
 ### Current Projects
 
