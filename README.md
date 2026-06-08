@@ -12,20 +12,12 @@
 
 ---
 
-### What I work on
+### Who Are You?
 
 I lead R&D engineering operations focused on AI agents and data-inference
-services. My background spans cybersecurity, OSINT, and reporting analytics. I'm interested in feature engineering, file encoding (check out [Gary Kessler's Magic Bytes List!](https://www.garykessler.net/library/file_sigs_GCK_latest.html)), optimization algorithms, and AI interpretability.
+services. My background is in cybersecurity, OSINT, and reporting analytics. I'm interested in feature engineering, file encoding (check out [Gary Kessler's Magic Bytes List!](https://www.garykessler.net/library/file_sigs_GCK_latest.html)), optimization algorithms, and AI interpretability.(I also have an art degree - let me know if you need some design notes!)
 
-### Tech
-
-**Proficient:** Python · OSINT · reporting analytics
-
-**Working knowledge:** C · C# · JavaScript · PowerShell
-
-**Focus areas:** AI agents · anomaly detection · optimization algorithms
-
-### Some Projects
+### Current Projects
 
 **[adaptive-encoding-anomaly-detector](https://github.com/bumblB33/adaptive-encoding-anomaly-detector)**
 Categorical feature-encoding selection as a Mixed-Integer Linear Program.
@@ -38,13 +30,4 @@ Radio Meteor Zoo is part of the [Zooniverse](https://www.zooniverse.org/) citize
 
 **[address-space-reverse-engineering](https://github.com/bumblB33/address-space-reverse-engineering)**
 Research whether an unprivileged process on Windows can infer another
-process's memory layout through same-host observations. The goal is to see if it's possible to partially circumvent ASLR without privileged access. Borrows from my optimization algorithm work - just applied to DLL addressing. :)
-
-**[AdventofCyber2023](https://github.com/bumblB33/AdventofCyber2023)**
-Writeups for TryHackMe's annual Advent of Cyber CTF, covering prompt injection,
-log analysis, password cracking with Hydra, and a few other challenges.
-
-
-### Fun fact
-
-I have a painting degree. Projects like these are an extra creative outlet!
+process's memory layout through same-host observations. The goal is to see if it's possible to partially circumvent ASLR without privileged access. Borrowed the idea from my optimization algorithm work - just applied to DLL addressing. 
