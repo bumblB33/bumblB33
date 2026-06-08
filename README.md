@@ -31,3 +31,6 @@ Radio Meteor Zoo is part of the [Zooniverse](https://www.zooniverse.org/) citize
 **[address-space-reverse-engineering](https://github.com/bumblB33/address-space-reverse-engineering)**
 Research whether an unprivileged process on Windows can infer another
 process's memory layout through same-host observations. The goal is to see if it's possible to partially circumvent ASLR without privileged access. Borrowed the idea from my optimization algorithm work - just applied to DLL addressing. 
+
+**[selective-forecasting-benchmark](https://github.com/bumblB33/selective-forecasting-benchmark)
+Benchmarks to evaluate how well NIXTLA's open-source forecasting models can predict multi-location business sales.
