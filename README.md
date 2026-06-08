@@ -2,7 +2,6 @@
 
 <p align="center">
   Infosec graduate working in cross-functional ML/data science research. <br>
-  Reverse engineering for the greater good.
 </p>
 
 <p align="center">
