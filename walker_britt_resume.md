@@ -1,4 +1,4 @@
-# Brittany Walker
+# Britt Walker
 
 **Operations Lead | AI Systems Engineer | Cybersecurity Professional**
 
