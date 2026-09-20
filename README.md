@@ -1,7 +1,7 @@
-<h1 align="center">Britt Walker</h1>
+<h1 align="center">Britt</h1>
 
 <p align="center">
-  Infosec Graduate & Current Engineer, cross-functional AI/ML research. <br>
+  SANS Cybersecurity Graduate & Current Forward Deployed Engineer, cross-functional AI/ML research. <br>
 </p>
 
 <p align="center">
